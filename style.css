@@ -1,0 +1,56 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #f5f7fa;
+    margin: 20px;
+    padding: 20px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
+}
+aside {
+    background: #234b87;
+    width: 370px;
+}
+.cvphoto {
+    margin-top: 25px;
+}
+.headers-secondary {
+    color: #fff;
+}
+.contacts-links {
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+}
+.bold {
+    font-weight: 700;
+}
+.list-secondary {
+    color: chocolate;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-secondary-item {
+    color: #fff;
+}
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.techskills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.softskills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
